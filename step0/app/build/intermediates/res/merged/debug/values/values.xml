@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/studysoftware/Android/AndroidStudioProjects/step0/app/src/main/res/values/arrays.xml -->
+    <!-- From: file:/C:/Users/Administrator/Desktop/step/AssignmentOnAndroid/step0/app/src/main/res/values/arrays.xml -->
     <eat-comment/>
     <string-array name="exercise_type_preference">
         <item>@string/exercise_type_running</item>
@@ -76,11 +76,11 @@
         <item>metric</item>
         <item>imperial</item>
     </string-array>
-    <!-- From: file:/D:/studysoftware/Android/AndroidStudioProjects/step0/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Administrator/Desktop/step/AssignmentOnAndroid/step0/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="display_background">#000</color>
     <color name="screen_background">#333</color>
-    <!-- From: file:/D:/studysoftware/Android/AndroidStudioProjects/step0/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Administrator/Desktop/step/AssignmentOnAndroid/step0/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="button">48sp</dimen>
     <dimen name="button_sign">24sp</dimen>
@@ -94,7 +94,7 @@
     <dimen name="step_count">30sp</dimen>
     <dimen name="units">11sp</dimen>
     <dimen name="value">45sp</dimen>
-    <!-- From: file:/D:/studysoftware/Android/AndroidStudioProjects/step0/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Administrator/Desktop/step/AssignmentOnAndroid/step0/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="activity_settings">app Settings</string>
     <string name="app_name">step</string>
